@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**LaisCamera/LaisCamera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Laís Câmera
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LaisCamera)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laiscamera/)
+
+&nbsp;
+
+**Sobre Mim:**
+
+- Sou formada em fonoaudiologia pela USP e estou em transição de carreira para a área de tecnologia. Faço parte do programa Starter+ de Desenvolvimento Web Full Stack da Growdev.
+- Atualmente estou estudando HTML e CSS.
+- Como hobby faço perfumes botânicos e atendimentos de aromaterapia.
+- Ask me about anything, I am happy to help.
+- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
+- How to reach me: __laiscamera@gmail.com__
+
+---
+&nbsp;
+
+**Languages and Tools:**
+
+  <code><img width="50%" src="https://ayltoninacio.com.br/img/p/32w1500.jpg"></code>
