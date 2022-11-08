@@ -4,7 +4,6 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LaisCamera)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laiscamera/)
-
 &nbsp;
 
 **Sobre Mim:**
@@ -19,4 +18,5 @@
 
 **Languages and Tools:**
 
-  <code><img width="50%" src="https://ayltoninacio.com.br/img/p/32w1500.jpg"></code>
+  <code><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="ícone HTML"></code>
+  <code><img width="100px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="ícone CSS"></code>
