@@ -12,9 +12,7 @@
 - Sou formada em fonoaudiologia pela USP e estou em transição de carreira para a área de tecnologia. Faço parte do programa Starter+ de Desenvolvimento Web Full Stack da Growdev.
 - Atualmente estou estudando HTML e CSS.
 - Como hobby faço perfumes botânicos e atendimentos de aromaterapia.
-- Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __laiscamera@gmail.com__
+- Contato: __laiscamera@gmail.com__
 
 ---
 &nbsp;
