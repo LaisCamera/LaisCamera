@@ -1,8 +1,4 @@
 
-<code>
-<img src="./dino%20internet%20gif.gif" width="300px" alt="dinossauro da internet gif">
-</code>
-
 ## Laís Câmera
 
 &nbsp;
